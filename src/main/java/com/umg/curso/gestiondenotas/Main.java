@@ -10,6 +10,6 @@ public class Main {
         new VentanaNotas();
     }
 }
-/* Este es un programa que guarda nombre y 5 notas (separadas por cosmas) 
-de estu estudiante.
+/* Este es un programa que guarda nombre y 5 notas (separadas por comas) 
+de un estudiante.
 */
